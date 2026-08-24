@@ -17,3 +17,17 @@ Nine ventures. 53 production services, 45 sites, 18 databases, all on our own ha
 ### Elsewhere
 
 [intframe.com/blog](https://intframe.com/blog) &nbsp;·&nbsp; [hello@intframe.com](mailto:hello@intframe.com)
+
+<!-- oss-agent:contributions:start -->
+
+### Merged upstream
+
+Fixes we shipped into other people's projects, newest stars first.
+
+| Project | Stars | What we fixed |
+|---|---|---|
+| [`diegosouzapw/OmniRoute`](https://github.com/diegosouzapw/OmniRoute) | 54,159 | [fix(services): fall back to ss and netstat when lsof is absent](https://github.com/diegosouzapw/OmniRoute/pull/10459) |
+| [`apexcharts/apexcharts.js`](https://github.com/apexcharts/apexcharts.js) | 15,133 | [fix: keep millisecond resolution when x is a Date on a datetime axis](https://github.com/apexcharts/apexcharts.js/pull/5277) |
+| [`junhoyeo/tokscale`](https://github.com/junhoyeo/tokscale) | 5,144 | [feat: add ccusage import format](https://github.com/junhoyeo/tokscale/pull/1128) |
+
+<!-- oss-agent:contributions:end -->
