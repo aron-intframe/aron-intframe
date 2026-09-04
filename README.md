@@ -10,6 +10,7 @@ Nine ventures. 53 production services, 45 sites, 18 databases, all on our own ha
 
 | | |
 |---|---|
+| [agent-guards](https://github.com/aron-intframe/agent-guards) | Autonomous agents don't crash, they go quiet and keep reporting success. Ten silent-failure modes from 439 cron jobs in production, with the checks that catch them |
 | [usage-recover](https://github.com/intframe/usage-recover) | Deleted your Claude Code or Codex history and lost your `ccusage` numbers? Rebuild `cc.json` from public leaderboard aggregates |
 | [thermal-receipt](https://github.com/intframe/thermal-receipt) | Scroll-driven thermal receipt printer UI for React. [`@intframe/thermal-receipt`](https://www.npmjs.com/package/@intframe/thermal-receipt) |
 | [scroll-rig](https://github.com/intframe/scroll-rig) | Scroll-driven three.js chapter patterns: camera beats, staggered assembly, adaptive quality governor |
