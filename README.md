@@ -6,6 +6,10 @@ Nine ventures. 53 production services, 45 sites, 18 databases, all on our own ha
 
 [#28 worldwide on Viberank](https://www.viberank.app/profile/aron-intframe): 70.8B tokens, $91.3K, 104 days through Claude Code and Codex CLI, verified server-side.
 
+### Research
+
+[An LLM-Associated Register Shift in Korean Journal Abstracts](https://arxiv.org/abs/2609.07447) — [arXiv:2609.07447](https://arxiv.org/abs/2609.07447) (cs.CL, cs.DL). 398,296 Korean abstracts, 2018 to August 2026, with an article-level comparison against the English abstracts of the same articles. [Zenodo DOI](https://doi.org/10.5281/zenodo.22303588) · [full text](https://os.intframe.com/report/ai-style-lexicon)
+
 ### Open source
 
 | | |
