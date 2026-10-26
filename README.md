@@ -32,24 +32,25 @@ Fixes we shipped into other people's projects, newest stars first.
 
 | Project | Stars | What we fixed |
 |---|---|---|
-| [`freeCodeCamp/freeCodeCamp`](https://github.com/freeCodeCamp/freeCodeCamp) | 457,635 | [fix(curriculum): correct punctuation in HTML lecture intros](https://github.com/freeCodeCamp/freeCodeCamp/pull/70406) |
-| [`nexu-io/open-design`](https://github.com/nexu-io/open-design) | 103,055 | [fix(daemon): allowlist the active skill root for external_directory](https://github.com/nexu-io/open-design/pull/8178) |
-| [`cheaper-inference/OmniRoute`](https://github.com/cheaper-inference/OmniRoute) | 79,354 | [fix(services): fall back to ss and netstat when lsof is absent](https://github.com/cheaper-inference/OmniRoute/pull/10459) |
-| [`career-ops-hq/career-ops`](https://github.com/career-ops-hq/career-ops) | 76,354 | [fix(pipeline): route CV output on cv.output_format instead of the PDF ](https://github.com/career-ops-hq/career-ops/pull/3944) |
-| [`Fission-AI/OpenSpec`](https://github.com/Fission-AI/OpenSpec) | 72,649 | [refactor(core): share the IDE restart hint between init and update](https://github.com/Fission-AI/OpenSpec/pull/1725) |
-| [`docling-project/docling`](https://github.com/docling-project/docling) | 69,278 | [feat(cli): add latex output format](https://github.com/docling-project/docling/pull/4101) |
-| [`slidevjs/slidev`](https://github.com/slidevjs/slidev) | 49,168 | [fix: render iframe layouts at their on-screen resolution](https://github.com/slidevjs/slidev/pull/2728) |
-| [`nushell/nushell`](https://github.com/nushell/nushell) | 40,705 | [fix(format date): resolve `%r` when the locale's am/pm fallback also c](https://github.com/nushell/nushell/pull/18924) |
-| [`nushell/nushell`](https://github.com/nushell/nushell) | 40,705 | [fix(format date): render locales whose format carries %E or %O](https://github.com/nushell/nushell/pull/18918) |
-| [`pnpm/pnpm`](https://github.com/pnpm/pnpm) | 36,884 | [fix: warn when package.json declares a workspaces field](https://github.com/pnpm/pnpm/pull/14749) |
-| [`esengine/DeepSeek-Reasonix`](https://github.com/esengine/DeepSeek-Reasonix) | 35,905 | [fix(transcript): keep derived history record identities unique](https://github.com/esengine/DeepSeek-Reasonix/pull/11783) |
-| [`ajaxorg/ace`](https://github.com/ajaxorg/ace) | 27,130 | [fix: dispatch soft keyboard deletions through the command manager](https://github.com/ajaxorg/ace/pull/6010) |
-| [`apexcharts/apexcharts.js`](https://github.com/apexcharts/apexcharts.js) | 15,180 | [test(data): cover the null and undefined x the same guard un-breaks](https://github.com/apexcharts/apexcharts.js/pull/5281) |
-| [`apexcharts/apexcharts.js`](https://github.com/apexcharts/apexcharts.js) | 15,180 | [fix(config): keep initialConfig unadulterated when series are hidden](https://github.com/apexcharts/apexcharts.js/pull/5280) |
-| [`apexcharts/apexcharts.js`](https://github.com/apexcharts/apexcharts.js) | 15,180 | [fix(data): a Date x on a non-datetime axis, and an invalid Date](https://github.com/apexcharts/apexcharts.js/pull/5279) |
-| [`apexcharts/apexcharts.js`](https://github.com/apexcharts/apexcharts.js) | 15,180 | [fix: keep millisecond resolution when x is a Date on a datetime axis](https://github.com/apexcharts/apexcharts.js/pull/5277) |
-| [`junhoyeo/tokscale`](https://github.com/junhoyeo/tokscale) | 5,718 | [feat(import): attribute ccusage --by-agent rows to the agent that repo](https://github.com/junhoyeo/tokscale/pull/1190) |
-| [`junhoyeo/tokscale`](https://github.com/junhoyeo/tokscale) | 5,718 | [feat: add ccusage import format](https://github.com/junhoyeo/tokscale/pull/1128) |
+| [`freeCodeCamp/freeCodeCamp`](https://github.com/freeCodeCamp/freeCodeCamp) | 457,973 | [fix(curriculum): correct punctuation in HTML lecture intros](https://github.com/freeCodeCamp/freeCodeCamp/pull/70406) |
+| [`nexu-io/open-design`](https://github.com/nexu-io/open-design) | 104,133 | [fix(daemon): allowlist the active skill root for external_directory](https://github.com/nexu-io/open-design/pull/8178) |
+| [`cheaper-inference/OmniRoute`](https://github.com/cheaper-inference/OmniRoute) | 81,461 | [fix(services): fall back to ss and netstat when lsof is absent](https://github.com/cheaper-inference/OmniRoute/pull/10459) |
+| [`career-ops-hq/career-ops`](https://github.com/career-ops-hq/career-ops) | 77,568 | [fix(pipeline): route CV output on cv.output_format instead of the PDF ](https://github.com/career-ops-hq/career-ops/pull/3944) |
+| [`Fission-AI/OpenSpec`](https://github.com/Fission-AI/OpenSpec) | 73,057 | [refactor(core): share the IDE restart hint between init and update](https://github.com/Fission-AI/OpenSpec/pull/1725) |
+| [`heygen-com/hyperframes`](https://github.com/heygen-com/hyperframes) | 72,911 | [test(lint): cover three caption rules that had no tests](https://github.com/heygen-com/hyperframes/pull/5436) |
+| [`docling-project/docling`](https://github.com/docling-project/docling) | 69,627 | [feat(cli): add latex output format](https://github.com/docling-project/docling/pull/4101) |
+| [`slidevjs/slidev`](https://github.com/slidevjs/slidev) | 49,230 | [fix: render iframe layouts at their on-screen resolution](https://github.com/slidevjs/slidev/pull/2728) |
+| [`nushell/nushell`](https://github.com/nushell/nushell) | 40,733 | [fix(format date): resolve `%r` when the locale's am/pm fallback also c](https://github.com/nushell/nushell/pull/18924) |
+| [`nushell/nushell`](https://github.com/nushell/nushell) | 40,733 | [fix(format date): render locales whose format carries %E or %O](https://github.com/nushell/nushell/pull/18918) |
+| [`pnpm/pnpm`](https://github.com/pnpm/pnpm) | 36,923 | [fix: warn when package.json declares a workspaces field](https://github.com/pnpm/pnpm/pull/14749) |
+| [`esengine/DeepSeek-Reasonix`](https://github.com/esengine/DeepSeek-Reasonix) | 35,972 | [fix(transcript): keep derived history record identities unique](https://github.com/esengine/DeepSeek-Reasonix/pull/11783) |
+| [`ajaxorg/ace`](https://github.com/ajaxorg/ace) | 27,133 | [fix: dispatch soft keyboard deletions through the command manager](https://github.com/ajaxorg/ace/pull/6010) |
+| [`apexcharts/apexcharts.js`](https://github.com/apexcharts/apexcharts.js) | 15,182 | [test(data): cover the null and undefined x the same guard un-breaks](https://github.com/apexcharts/apexcharts.js/pull/5281) |
+| [`apexcharts/apexcharts.js`](https://github.com/apexcharts/apexcharts.js) | 15,182 | [fix(config): keep initialConfig unadulterated when series are hidden](https://github.com/apexcharts/apexcharts.js/pull/5280) |
+| [`apexcharts/apexcharts.js`](https://github.com/apexcharts/apexcharts.js) | 15,182 | [fix(data): a Date x on a non-datetime axis, and an invalid Date](https://github.com/apexcharts/apexcharts.js/pull/5279) |
+| [`apexcharts/apexcharts.js`](https://github.com/apexcharts/apexcharts.js) | 15,182 | [fix: keep millisecond resolution when x is a Date on a datetime axis](https://github.com/apexcharts/apexcharts.js/pull/5277) |
+| [`junhoyeo/tokscale`](https://github.com/junhoyeo/tokscale) | 5,748 | [feat(import): attribute ccusage --by-agent rows to the agent that repo](https://github.com/junhoyeo/tokscale/pull/1190) |
+| [`junhoyeo/tokscale`](https://github.com/junhoyeo/tokscale) | 5,748 | [feat: add ccusage import format](https://github.com/junhoyeo/tokscale/pull/1128) |
 
 <!-- oss-agent:contributions:end -->
 
